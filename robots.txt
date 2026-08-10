@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: procent-keshbeka-kazino.github.io
+Sitemap: https://procent-keshbeka-kazino.github.io/sitemap.xml
